@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
+header { background-image: url(/build/img/101.jfif);
+    max-width: 1440px;
+    height: 750px;
+    margin: 10px auto;
+    position: relative;
+   
+    p {position: absolute;
+    font-size:90px;
+font-weight: 400; 
+width: 1069px;
+height:187px; 
+left: 185px;
+bottom: 281px;
+color: #fff;
+display: block;
+line-height: 104px;
+text-align: center;
+font-family: 'Yeseva One';
+}
+.vector{ position: absolute;
+    left: 41.32%;
+right: 41.32%;
+top: 61.02%;
+bottom: 32.83%;
+} 
+.vector1 {position: absolute;
+    width: 218px;
+    height: 80px;
+top: 568px;
+left: 468px ;
+    text-align: center;
+    background:rgba(255, 255, 255, 0.6);
+    border: 1px solid #FFFFFF;
+    width: 218px;
+    height: 80px;
+    font-family: 'Yeseva One';
+    color: #fff;
+    font-weight: 400;
+font-size: 18px;
+line-height: 32px;
+}
+.vector2  {position: absolute;
+    width: 218px;
+    height: 80px;
+top: 568px;
+right: 468px ;
+    text-align: center;
+    background:rgba(255, 255, 255, 0.6);
+    border: 1px solid #FFFFFF;
+    width: 218px;
+    height: 80px;
+    font-family: 'Yeseva One';
+    color: #fff;
+    font-weight: 400;
+font-size: 18px;
+line-height: 32px;
+}
+
+}
